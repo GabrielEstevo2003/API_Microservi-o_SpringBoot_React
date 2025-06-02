@@ -1,4 +1,4 @@
-package com.example.Pedidos.CORS;
+package com.example.Pedidos.Configurations;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
